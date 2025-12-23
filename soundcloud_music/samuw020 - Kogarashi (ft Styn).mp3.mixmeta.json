@@ -1,0 +1,97 @@
+{
+  "file": {
+    "path": "C:\\Users\\Isaia\\Documents\\Coding\\N8N\\soundcloud_music\\samuw020 - Kogarashi (ft Styn).mp3",
+    "duration_sec": 145.5891156462585,
+    "samplerate_hz": 22050,
+    "bitrate_kbps": null,
+    "format": "mp3"
+  },
+  "rhythm": {
+    "bpm": 80.74951171875,
+    "bpm_confidence": 0.9183392524719238,
+    "downbeat_times": [
+      13.583673469387755,
+      16.579047619047618,
+      19.574421768707484,
+      22.569795918367348,
+      25.611609977324264,
+      28.606984126984127,
+      31.62557823129252,
+      34.62095238095238,
+      37.61632653061225,
+      40.61170068027211,
+      43.607074829931975,
+      46.602448979591834,
+      49.621043083900226,
+      52.61641723356009,
+      55.61179138321995,
+      58.63038548752834,
+      61.57931972789115,
+      64.55147392290249,
+      67.57006802721088,
+      70.58866213151927,
+      73.63047619047619,
+      76.64907029478458,
+      79.62122448979592,
+      82.61659863945579,
+      85.61197278911564,
+      88.6073469387755,
+      91.6259410430839,
+      94.59809523809524,
+      97.61668934240363,
+      100.6120634920635,
+      103.60743764172335
+    ],
+    "phrase_bars": {
+      "intro": 8,
+      "outro": 8
+    }
+  },
+  "energy": {
+    "lufs_integrated": -18.88679863481692,
+    "peak_dbfs": -0.463435016029521,
+    "dynamic_range_db": 39.46758842468262,
+    "percussiveness_1_10": 7,
+    "sub_intensity_1_10": 10
+  },
+  "feel": {
+    "danceability_1_10": 7,
+    "timbre_brightness": "dark",
+    "vocal_presence": "lead",
+    "instrumental": false
+  },
+  "mix": {
+    "vocal_band_energy_ratio": 0.8786109089851379,
+    "cue_points": [
+      {
+        "label": "mix_in",
+        "time": 0.0
+      }
+    ],
+    "structure": []
+  },
+  "classify": {
+    "genre_top": "unknown",
+    "genre_alt": []
+  },
+  "harmony": {
+    "key_open": "3A",
+    "key_name": "Bb minor",
+    "key_confidence": 0.9826594928659274,
+    "camelot_neighbors": {
+      "same": [
+        "3A"
+      ],
+      "safe": [
+        "2A",
+        "4A"
+      ],
+      "energy_boost": [
+        "5A"
+      ],
+      "relative": [
+        "3B"
+      ]
+    }
+  }
+}

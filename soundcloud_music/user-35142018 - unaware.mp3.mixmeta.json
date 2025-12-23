@@ -1,0 +1,87 @@
+{
+  "file": {
+    "path": "C:\\Users\\Isaia\\Documents\\Coding\\N8N\\soundcloud_music\\user-35142018 - unaware.mp3",
+    "duration_sec": 29.753469387755104,
+    "samplerate_hz": 22050,
+    "bitrate_kbps": null,
+    "format": "mp3"
+  },
+  "rhythm": {
+    "bpm": 172.265625,
+    "bpm_confidence": 0.9395615458488464,
+    "downbeat_times": [
+      0.4179591836734694,
+      1.811156462585034,
+      3.2275736961451247,
+      4.6439909297052155,
+      6.060408163265306,
+      7.476825396825397,
+      8.893242630385487,
+      10.309659863945578,
+      11.702857142857143,
+      13.119274376417234,
+      14.535691609977324,
+      15.952108843537415,
+      17.368526077097506,
+      18.76172335600907,
+      20.17814058956916,
+      21.571337868480725,
+      23.010975056689343,
+      24.404172335600908,
+      25.820589569160997,
+      27.237006802721087,
+      28.65342403628118
+    ],
+    "phrase_bars": {
+      "intro": 8,
+      "outro": 8
+    }
+  },
+  "energy": {
+    "lufs_integrated": -13.287375955534893,
+    "peak_dbfs": -0.27541458287490783,
+    "dynamic_range_db": 35.6863374710083,
+    "percussiveness_1_10": 6,
+    "sub_intensity_1_10": 10
+  },
+  "feel": {
+    "danceability_1_10": 7,
+    "timbre_brightness": "dark",
+    "vocal_presence": "lead",
+    "instrumental": false
+  },
+  "mix": {
+    "vocal_band_energy_ratio": 1.311665415763855,
+    "cue_points": [
+      {
+        "label": "mix_in",
+        "time": 0.0
+      }
+    ],
+    "structure": []
+  },
+  "classify": {
+    "genre_top": "unknown",
+    "genre_alt": []
+  },
+  "harmony": {
+    "key_open": "3A",
+    "key_name": "Bb minor",
+    "key_confidence": 0.9774219493169278,
+    "camelot_neighbors": {
+      "same": [
+        "3A"
+      ],
+      "safe": [
+        "2A",
+        "4A"
+      ],
+      "energy_boost": [
+        "5A"
+      ],
+      "relative": [
+        "3B"
+      ]
+    }
+  }
+}

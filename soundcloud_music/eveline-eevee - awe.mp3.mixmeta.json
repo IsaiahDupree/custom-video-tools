@@ -1,0 +1,86 @@
+{
+  "file": {
+    "path": "C:\\Users\\Isaia\\Documents\\Coding\\N8N\\soundcloud_music\\eveline-eevee - awe.mp3",
+    "duration_sec": 58.88580498866213,
+    "samplerate_hz": 22050,
+    "bitrate_kbps": null,
+    "format": "mp3"
+  },
+  "rhythm": {
+    "bpm": 99.38401442307692,
+    "bpm_confidence": 0.9638701677322388,
+    "downbeat_times": [
+      0.09287981859410431,
+      2.5309750566893423,
+      4.96907029478458,
+      7.430385487528345,
+      9.891700680272109,
+      12.329795918367347,
+      14.79111111111111,
+      17.22920634920635,
+      19.71374149659864,
+      22.128616780045352,
+      24.56671201814059,
+      27.00480725623583,
+      29.466122448979593,
+      31.927437641723355,
+      34.365532879818595,
+      36.80362811791383,
+      39.2649433106576,
+      41.72625850340136,
+      44.1643537414966,
+      46.602448979591834
+    ],
+    "phrase_bars": {
+      "intro": 8,
+      "outro": 8
+    }
+  },
+  "energy": {
+    "lufs_integrated": -18.847282405161835,
+    "peak_dbfs": -1.079240370528697,
+    "dynamic_range_db": 32.350887298583984,
+    "percussiveness_1_10": 6,
+    "sub_intensity_1_10": 10
+  },
+  "feel": {
+    "danceability_1_10": 7,
+    "timbre_brightness": "dark",
+    "vocal_presence": "lead",
+    "instrumental": false
+  },
+  "mix": {
+    "vocal_band_energy_ratio": 0.6079261898994446,
+    "cue_points": [
+      {
+        "label": "mix_in",
+        "time": 0.0
+      }
+    ],
+    "structure": []
+  },
+  "classify": {
+    "genre_top": "unknown",
+    "genre_alt": []
+  },
+  "harmony": {
+    "key_open": "8B",
+    "key_name": "C major",
+    "key_confidence": 0.9724697300314233,
+    "camelot_neighbors": {
+      "same": [
+        "8B"
+      ],
+      "safe": [
+        "7B",
+        "9B"
+      ],
+      "energy_boost": [
+        "10B"
+      ],
+      "relative": [
+        "8A"
+      ]
+    }
+  }
+}
