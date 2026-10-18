@@ -1,0 +1,32 @@
+#!/usr/bin/env python3
+"""
+Append the direct music route to the Flask API app.py file
+"""
+import os
+
+def append_route():
+    app_path = "/app/app.py"
+    route_path = "/app/direct_music_route.py"
+    
+    # Read the route content
+    with open(route_path, 'r') as f:
+        route_content = f.read()
+    
+    # Read the app file
+    with open(app_path, 'r') as f:
+        app_content = f.read()
+    
+    # Check if route already exists
+    if "def direct_music_match():" in app_content:
+        print("Route already exists, no changes needed")
+        return
+    
+    # Append the route to the app file
+    with open(app_path, 'a') as f:
+        f.write("\n\n# Direct music matching route\n")
+        f.write(route_content)
+    
+    print("Direct music route appended to Flask API")
+
+if __name__ == "__main__":
+    append_route()

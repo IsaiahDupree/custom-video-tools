@@ -1,0 +1,12 @@
+{
+  "supplements_snapshot": "6bec388ccf4176fb-r2",
+  "source_roots": [
+    "C:/Users/Isaia/Documents/Coding/Remotion/custom-video-tools"
+  ],
+  "files": {
+    "scripts": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\Remotion\\custom-video-tools\\scripts",
+      "reason": "portable authored code absent from staged source selection"
+    }
+  }
+}
