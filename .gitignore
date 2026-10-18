@@ -1,0 +1,109 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Flask
+instance/
+.webassets-cache
+*.pickle
+
+# OAuth tokens and secrets
+client_secret*.json
+*.pickle
+token.pickle
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Cache and temporary files
+cache/
+*.cache
+*.log
+*.tmp
+temp/
+tmp/
+
+# Output files
+output/
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mov
+*.mkv
+
+# Large media files (uncomment if needed)
+# shared/videos/
+# soundcloud_music/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Docker
+.dockerignore
+
+# Node modules (if any)
+node_modules/
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Music and video files (large files - exclude from repository)
+*.mp3
+*.mp4
+*.wav
+*.aac
+*.flac
+*.m4a
+
+# Analysis and processing outputs
+analysis/
+processed_videos/
+
+# Font files (if too large)
+# shared/fonts/*.ttf
+# shared/fonts/*.otf
+
