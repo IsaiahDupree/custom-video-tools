@@ -1,0 +1,87 @@
+{
+  "file": {
+    "path": "C:\\Users\\Isaia\\Documents\\Coding\\N8N\\soundcloud_music\\djdeadhorses - i feel like falling....mp3",
+    "duration_sec": 58.6768253968254,
+    "samplerate_hz": 22050,
+    "bitrate_kbps": null,
+    "format": "mp3"
+  },
+  "rhythm": {
+    "bpm": 86.1328125,
+    "bpm_confidence": 0.9585210084915161,
+    "downbeat_times": [
+      0.06965986394557823,
+      2.8328344671201813,
+      5.433469387755102,
+      8.126984126984127,
+      10.913378684807256,
+      13.676553287981859,
+      16.486167800453515,
+      19.272562358276645,
+      22.058956916099774,
+      24.845351473922904,
+      27.631746031746033,
+      30.441360544217687,
+      33.22775510204082,
+      36.014149659863946,
+      38.800544217687076,
+      41.586938775510205,
+      44.373333333333335,
+      47.18294784580499,
+      49.96934240362812,
+      52.75573696145125,
+      55.54213151927438
+    ],
+    "phrase_bars": {
+      "intro": 8,
+      "outro": 8
+    }
+  },
+  "energy": {
+    "lufs_integrated": -12.929559336538054,
+    "peak_dbfs": -0.11737787028869287,
+    "dynamic_range_db": 31.99165439605713,
+    "percussiveness_1_10": 7,
+    "sub_intensity_1_10": 10
+  },
+  "feel": {
+    "danceability_1_10": 7,
+    "timbre_brightness": "dark",
+    "vocal_presence": "lead",
+    "instrumental": false
+  },
+  "mix": {
+    "vocal_band_energy_ratio": 1.2328071594238281,
+    "cue_points": [
+      {
+        "label": "mix_in",
+        "time": 0.0
+      }
+    ],
+    "structure": []
+  },
+  "classify": {
+    "genre_top": "unknown",
+    "genre_alt": []
+  },
+  "harmony": {
+    "key_open": "4A",
+    "key_name": "F minor",
+    "key_confidence": 0.9840635360233267,
+    "camelot_neighbors": {
+      "same": [
+        "4A"
+      ],
+      "safe": [
+        "3A",
+        "5A"
+      ],
+      "energy_boost": [
+        "6A"
+      ],
+      "relative": [
+        "4B"
+      ]
+    }
+  }
+}
