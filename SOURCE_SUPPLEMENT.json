@@ -1,0 +1,12 @@
+{
+  "supplements_snapshot": "dad92f3c979a2d2b-r2",
+  "source_roots": [
+    "C:/Users/Isaia/Documents/Coding/N8N/custom-video-tools"
+  ],
+  "files": {
+    "scripts": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\N8N\\custom-video-tools\\scripts",
+      "reason": "portable authored code absent from staged source selection"
+    }
+  }
+}
